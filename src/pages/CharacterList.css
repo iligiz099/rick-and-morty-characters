@@ -1,0 +1,8 @@
+.CharacterList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.border-img {
+  border-radius: 10px;
+}
